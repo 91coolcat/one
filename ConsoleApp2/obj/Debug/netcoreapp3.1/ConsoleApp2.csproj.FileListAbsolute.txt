@@ -1,0 +1,13 @@
+F:\001\91coolcat\00001\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.exe
+F:\001\91coolcat\00001\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.deps.json
+F:\001\91coolcat\00001\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.json
+F:\001\91coolcat\00001\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.dev.json
+F:\001\91coolcat\00001\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.dll
+F:\001\91coolcat\00001\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.pdb
+F:\001\91coolcat\00001\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csprojAssemblyReference.cache
+F:\001\91coolcat\00001\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfoInputs.cache
+F:\001\91coolcat\00001\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfo.cs
+F:\001\91coolcat\00001\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+F:\001\91coolcat\00001\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.dll
+F:\001\91coolcat\00001\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.pdb
+F:\001\91coolcat\00001\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.genruntimeconfig.cache

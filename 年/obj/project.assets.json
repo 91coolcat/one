@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\vs\\1\\00001\\年\\年.csproj",
+      "projectUniqueName": "F:\\001\\91coolcat\\00001\\年\\年.csproj",
       "projectName": "年",
-      "projectPath": "F:\\vs\\1\\00001\\年\\年.csproj",
+      "projectPath": "F:\\001\\91coolcat\\00001\\年\\年.csproj",
       "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
-      "outputPath": "F:\\vs\\1\\00001\\年\\obj\\",
+      "outputPath": "F:\\001\\91coolcat\\00001\\年\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"

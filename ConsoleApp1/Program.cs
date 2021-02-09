@@ -41,6 +41,15 @@ namespace ConsoleApp1
             //    int ge = ci %10; i += ge * ge * ge;
             //    if (i == ci) Console.WriteLine(i);
             //}
+            //乘法表
+            //for (int c = 1; c < 10; c++)
+            //{
+            //    for (int b = 1; b < 10; b++)
+            //    {
+            //        if (b >= c) Console.Write("{0}*{1}={2}\t",c,b,c*b);
+            //    }
+            //    Console.WriteLine();
+            //}
         }
     }
 }
