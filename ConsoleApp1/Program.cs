@@ -33,6 +33,14 @@ namespace ConsoleApp1
             //    }
             //}
             //Console.WriteLine("这些数字的和为{0}", l);
+            //for (int ci = 100; ci < 1000; ci++)
+            //{
+            //    i = 0;
+            //    int bai = ci / 100;i += bai * bai * bai;
+            //    int shi = ci % 100/10; i += shi * shi * shi;
+            //    int ge = ci %10; i += ge * ge * ge;
+            //    if (i == ci) Console.WriteLine(i);
+            //}
         }
     }
 }
