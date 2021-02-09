@@ -1,0 +1,13 @@
+F:\vs\1\00001\年\bin\Debug\netcoreapp3.1\年.exe
+F:\vs\1\00001\年\bin\Debug\netcoreapp3.1\年.deps.json
+F:\vs\1\00001\年\bin\Debug\netcoreapp3.1\年.runtimeconfig.json
+F:\vs\1\00001\年\bin\Debug\netcoreapp3.1\年.runtimeconfig.dev.json
+F:\vs\1\00001\年\bin\Debug\netcoreapp3.1\年.dll
+F:\vs\1\00001\年\bin\Debug\netcoreapp3.1\年.pdb
+F:\vs\1\00001\年\obj\Debug\netcoreapp3.1\年.csprojAssemblyReference.cache
+F:\vs\1\00001\年\obj\Debug\netcoreapp3.1\年.AssemblyInfoInputs.cache
+F:\vs\1\00001\年\obj\Debug\netcoreapp3.1\年.AssemblyInfo.cs
+F:\vs\1\00001\年\obj\Debug\netcoreapp3.1\年.csproj.CoreCompileInputs.cache
+F:\vs\1\00001\年\obj\Debug\netcoreapp3.1\年.dll
+F:\vs\1\00001\年\obj\Debug\netcoreapp3.1\年.pdb
+F:\vs\1\00001\年\obj\Debug\netcoreapp3.1\年.genruntimeconfig.cache

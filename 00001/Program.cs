@@ -12,7 +12,7 @@ namespace _00001
             {
                 try
                 {
-                    v = Convert.ToInt32(Console.ReadLine()); break;
+                    v = Convert.ToInt32(Console.ReadLine()); break;//0
                 }
                 catch
                 {
