@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\001\\91coolcat\\00001\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "F:\\新建文件夹\\00001\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "F:\\001\\91coolcat\\00001\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "F:\\新建文件夹\\00001\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
-      "outputPath": "F:\\001\\91coolcat\\00001\\ConsoleApp1\\obj\\",
+      "outputPath": "F:\\新建文件夹\\00001\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"
