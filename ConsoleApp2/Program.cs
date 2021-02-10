@@ -6,7 +6,7 @@ namespace 数组
     {
         static void Main(string[] args)
         {
-            使用数组求平均值，和、、、、
+            //使用数组求平均值，和、、、、
             int a = int.MaxValue; int b = int.MinValue; int c = 0;
             int[] news = new int[5];
             for (int i = 0; i < 5; i++)
