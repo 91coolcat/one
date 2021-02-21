@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            int i = 0;int l=0;bool a = true;
+            int i = 0; int l = 0; bool a = true;
             //1-100整数和
             //do
             //{
@@ -50,6 +50,41 @@ namespace ConsoleApp1
             //    }
             //    Console.WriteLine();
             //}
+            //不断要求用户输入一个数字,输入+或/进行求总和或者平均值
+            //string vs = null;
+            //while (a)
+            //{
+            //    Console.WriteLine("请输入第{0}个数字\n+&/", i+1);i++;
+            //    string str = Console.ReadLine();
+            //    if (int.TryParse(str, out l))
+            //    {
+            //        vs += l + "/";
+            //    }
+            //    else if (str == "+" || str == "/")
+            //    {
+            //        a = false; i = 0;
+            //        string[] vs1 = vs.Split(new char[] { '/' });
+            //        if (str == "+")
+            //        {
+            //            for (int p = 0; p < vs1.Length-1; p++)
+            //            {
+            //                i += int.Parse(vs1[p]);
+            //            }
+            //        }
+            //        if (str.Equals("/"))
+            //        {
+            //            for (int p = 0; p < vs1.Length-1; p++)
+            //            {
+            //                i += int.Parse(vs1[p]);
+            //            }
+            //            i = i / (vs1.Length-1);
+            //        }
+            //        a = false;
+            //    }
+            //    else { Console.WriteLine("输入不合规"); i--; }
+            //}
+            //Console.WriteLine(i);
+            //Console.ReadLine();
         }
     }
 }

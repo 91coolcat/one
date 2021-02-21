@@ -24,3 +24,16 @@ F:\新建文件夹\00001\00001\obj\Debug\netcoreapp3.1\00001.csproj.CoreCompileI
 F:\新建文件夹\00001\00001\obj\Debug\netcoreapp3.1\00001.dll
 F:\新建文件夹\00001\00001\obj\Debug\netcoreapp3.1\00001.pdb
 F:\新建文件夹\00001\00001\obj\Debug\netcoreapp3.1\00001.genruntimeconfig.cache
+E:\111\00001\bin\Debug\netcoreapp3.1\00001.exe
+E:\111\00001\bin\Debug\netcoreapp3.1\00001.deps.json
+E:\111\00001\bin\Debug\netcoreapp3.1\00001.runtimeconfig.json
+E:\111\00001\bin\Debug\netcoreapp3.1\00001.runtimeconfig.dev.json
+E:\111\00001\bin\Debug\netcoreapp3.1\00001.dll
+E:\111\00001\bin\Debug\netcoreapp3.1\00001.pdb
+E:\111\00001\obj\Debug\netcoreapp3.1\00001.csprojAssemblyReference.cache
+E:\111\00001\obj\Debug\netcoreapp3.1\00001.AssemblyInfoInputs.cache
+E:\111\00001\obj\Debug\netcoreapp3.1\00001.AssemblyInfo.cs
+E:\111\00001\obj\Debug\netcoreapp3.1\00001.csproj.CoreCompileInputs.cache
+E:\111\00001\obj\Debug\netcoreapp3.1\00001.dll
+E:\111\00001\obj\Debug\netcoreapp3.1\00001.pdb
+E:\111\00001\obj\Debug\netcoreapp3.1\00001.genruntimeconfig.cache

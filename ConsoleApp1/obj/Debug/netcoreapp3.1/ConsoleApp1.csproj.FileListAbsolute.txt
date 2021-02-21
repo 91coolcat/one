@@ -11,3 +11,16 @@ F:\vs\1\00001\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompile
 F:\vs\1\00001\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
 F:\vs\1\00001\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
 F:\vs\1\00001\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+E:\111\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+E:\111\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+E:\111\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+E:\111\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+E:\111\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\111\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\111\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+E:\111\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+E:\111\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+E:\111\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\111\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\111\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\111\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

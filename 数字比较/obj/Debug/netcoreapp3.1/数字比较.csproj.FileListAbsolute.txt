@@ -10,3 +10,16 @@ F:\新建文件夹\00001\数字比较\obj\Debug\netcoreapp3.1\数字比较.cspro
 F:\新建文件夹\00001\数字比较\obj\Debug\netcoreapp3.1\数字比较.dll
 F:\新建文件夹\00001\数字比较\obj\Debug\netcoreapp3.1\数字比较.pdb
 F:\新建文件夹\00001\数字比较\obj\Debug\netcoreapp3.1\数字比较.genruntimeconfig.cache
+E:\111\数字比较\bin\Debug\netcoreapp3.1\数字比较.exe
+E:\111\数字比较\bin\Debug\netcoreapp3.1\数字比较.deps.json
+E:\111\数字比较\bin\Debug\netcoreapp3.1\数字比较.runtimeconfig.json
+E:\111\数字比较\bin\Debug\netcoreapp3.1\数字比较.runtimeconfig.dev.json
+E:\111\数字比较\bin\Debug\netcoreapp3.1\数字比较.dll
+E:\111\数字比较\bin\Debug\netcoreapp3.1\数字比较.pdb
+E:\111\数字比较\obj\Debug\netcoreapp3.1\数字比较.csprojAssemblyReference.cache
+E:\111\数字比较\obj\Debug\netcoreapp3.1\数字比较.AssemblyInfoInputs.cache
+E:\111\数字比较\obj\Debug\netcoreapp3.1\数字比较.AssemblyInfo.cs
+E:\111\数字比较\obj\Debug\netcoreapp3.1\数字比较.csproj.CoreCompileInputs.cache
+E:\111\数字比较\obj\Debug\netcoreapp3.1\数字比较.dll
+E:\111\数字比较\obj\Debug\netcoreapp3.1\数字比较.pdb
+E:\111\数字比较\obj\Debug\netcoreapp3.1\数字比较.genruntimeconfig.cache
